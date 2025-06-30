@@ -78,6 +78,14 @@ This script is especially valuable for bloggers, affiliate marketers, and websit
 
 ---
 
-## Summary
+## Contributions
 
-`generate_article.py` is a comprehensive automation script for AI-driven content and image generation, ideal for anyone looking to scale up their content marketing with minimal manual effort. It leverages the latest in AI, integrates with popular messaging and indexing services, and is designed for reliability and flexibility in a modern content pipeline.
+Your contributions are welcome! If you have ideas for improvements or find any issues, feel free to fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. Full details can be found in the [LICENSE](LICENSE) file.
+
+## Contact
+
+If you have any questions or suggestions, you can contact me via [LinkedIn](https://www.linkedin.com/in/agigante/)
